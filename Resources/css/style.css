@@ -29,3 +29,12 @@ a{
   font-size 23px;
   font-weight:bold;
 }
+.process p{
+  font-size: 14px;
+}
+.ftnote{
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+  font-size: 11px;
+}
